@@ -23,4 +23,4 @@ Giriş bilgilerini değiştirmek isterseniz mavitmBot/lib.php dosyasının 3. ve
 
 
 
-http://wwww.mavitm.com
+http://www.mavitm.com
