@@ -2,7 +2,7 @@ Merhaba
 
 Kurulum için gerekli işlemler 
 
-mavitmBot klasörü ve bot.php dosyasını wordpress kurulu olan sitenizin ana dizinindeki wp-load.php dosyasının yanına upload ediniz.
+mavitmBot klasörü ve bot.php dosyasını wordpress kurulu olan sitenizin ana dizinin de wp-load.php dosyasının yanına upload ediniz.
 
 Tarayıcınız ile http://siteniz.com/bot.php?islem=akilli adresine gidiniz
 
