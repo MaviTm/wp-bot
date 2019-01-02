@@ -1,22 +1,22 @@
 Merhaba 
 
-Kurulum için gerekli işlemler 
+Kurulum iÃ§in gerekli iÅŸlemler 
 
-mavitmBot klasörü ve bot.php dosyasını wordpress kurulu olan sitenizin ana dizinindeki wp-load.php dosyasının yanına upload ediniz.
+mavitmBot klasÃ¶rÃ¼ ve bot.php dosyasÄ±nÄ± wordpress kurulu olan sitenizin ana dizinindeki wp-load.php dosyasÄ±nÄ±n yanÄ±na upload ediniz.
 
-Tarayıcınız ile http://siteniz.com/bot.php?islem=akilli adresine gidiniz
+TarayÄ±cÄ±nÄ±z ile http://siteniz.com/bot.php?islem=akilli adresine gidiniz
 
     $user : admin
     $pass : asdf123
 
-bilgileri ile giriş yaparak kullanmaya başlayabilirsiniz
+bilgileri ile giriÅŸ yaparak kullanmaya baÅŸlayabilirsiniz
 
 
-Giriş bilgilerini değiştirmek isterseniz mavitmBot/lib.php dosyasının 3. ve 4. satırlarında kullanıcı bilgilerini düzenleyebilirsiniz.
+GiriÅŸ bilgilerini deÄŸiÅŸtirmek isterseniz mavitmBot/lib.php dosyasÄ±nÄ±n 3. ve 4. satÄ±rlarÄ±nda kullanÄ±cÄ± bilgilerini dÃ¼zenleyebilirsiniz.
 
 
-
-
+## Ã–rnek video
+[![Watch the video](https://img.youtube.com/vi/PflvjjRwo-4/hqdefault.jpg)](https://www.youtube.com/watch?v=PflvjjRwo-4)  
 
 
 
